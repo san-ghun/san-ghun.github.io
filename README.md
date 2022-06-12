@@ -1,3 +1,9 @@
+gatsby starter from [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen)
+
+- Do git control with Git CLI, not with SourceTree or extensions.
+
+---
+
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/master/.github/logo.png" width="140"> </br>
     Lumen

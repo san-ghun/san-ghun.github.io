@@ -2,7 +2,7 @@
   "title": "Blog by Sanghun Park",
   "url": "https://san-ghun.github.io",
   "subtitle": "Coding On Heaven's Door, or maybe on the Devil's one. Whatever it is, please God of Coding, guide this one little pilgrim of Swift to the better way.",
-  "copyright": "© 2022 Sanghun Park. All rights reserved. \nTheme from Lumen of Alexander Shelepenok",
+  "copyright": "Built with Gatsby using a theme provided by Lumen from Alexander Shelepenok - © 2022 Sanghun Park. All rights reserved.",
   "googleAnalyticsId": "UA-120963948-1",
   "disqusShortname": "",
   "postsLimit": 4,

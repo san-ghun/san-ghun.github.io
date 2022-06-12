@@ -1,0 +1,46 @@
+{
+  "title": "Blog by Sanghun Park",
+  "url": "https://san-ghun.github.io",
+  "subtitle": "Coding On Heaven's Door, or maybe on the Devil's one. Whatever it is, please God of Coding, guide this one little pilgrim of Swift to the better way.",
+  "copyright": "Built with Gatsby using a theme provided by Lumen from Alexander Shelepenok - © 2022 Sanghun Park. All rights reserved.",
+  "googleAnalyticsId": "UA-120963948-1",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    },
+    {
+      "label": "Contact me",
+      "path": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "name": "Sanghun Park",
+    "photo": "/photo.jpg",
+    "bio": "Coding On Heaven's Door, or maybe on the Devil's one. Whatever it is, please God of Coding, guide this one little pilgrim of Swift to the better way.",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "san-ghun",
+      "facebook": "",
+      "telegram": "",
+      "twitter": "",
+      "linkedin": "san-ghun",
+      "instagram": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
